@@ -1,1 +1,1 @@
-# FashionShop
+# FashionShop using Java Swing
